@@ -1,0 +1,131 @@
+.home {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.hero {
+  text-align: center;
+  background: #f4f4f4;
+  padding: 40px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+}
+
+.hero h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 18px;
+  color: #666;
+}
+
+.highlights {
+  margin-bottom: 30px;
+}
+
+.highlights h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.highlight-cards {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.card {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  flex: 1;
+  text-align: center;
+}
+
+.card h3 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.card p {
+  font-size: 16px;
+  color: #555;
+}
+
+.news {
+  margin-bottom: 30px;
+}
+
+.news h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.news ul {
+  list-style: none;
+  padding: 0;
+}
+
+.news li {
+  margin-bottom: 20px;
+}
+
+.news li h3 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.news li p {
+  font-size: 16px;
+  color: #666;
+}
+
+.contact-info {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.contact-info h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.contact-info p {
+  font-size: 16px;
+  color: #333;
+}
+
+.contact-info a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
+
+.wikipedia-link {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.wikipedia-link h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.wikipedia-link a {
+  color: #007bff;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.wikipedia-link a:hover {
+  text-decoration: underline;
+}
